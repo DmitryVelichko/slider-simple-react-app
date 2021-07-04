@@ -187,6 +187,7 @@ Slider
   display: flex;
   overflow: hidden;
 }
+
 .person-img {
   border-radius: 50%;
   margin-bottom: 1rem;
