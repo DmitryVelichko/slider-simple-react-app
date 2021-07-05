@@ -41,6 +41,7 @@ function App() {
           const { id, image, name, title, quote } = person;
 
           let position = 'nextSlide';
+    
           if (personIndex === index) {
             position = 'activeSlide';
           }
