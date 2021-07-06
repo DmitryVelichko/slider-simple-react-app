@@ -242,6 +242,7 @@ article h4 {
   cursor: pointer;
   transition: var(--transition);
 }
+
 .prev:hover,
 .next:hover {
   background: var(--clr-primary-5);
